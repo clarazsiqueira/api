@@ -1,6 +1,6 @@
 import 'dotenv/config'
 
-import clienteController from './controller/clienteController'
+import clienteController from './controller/clienteController.js'
 
 
 import  express  from 'express'
